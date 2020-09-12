@@ -6,7 +6,7 @@
     "async": "^1.4.2",
     "dotenv": "^1.1.0",
     "keystone": "^0.3.14",
-    "node-sass": "^3.3.2",
+    "node-sass": "^4.14.1",
     "node-sass-middleware": "^0.5.0",
     "underscore": "^1.8.3"
   },
